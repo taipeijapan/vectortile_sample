@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "sourceMap": true,
+    "module": "commonjs",
+    "isolatedModules": true,
+    "useDefineForClassFields": true,
+    "target": "esnext",
+    "jsx": "react",
+    "allowJs": true
+  }
+}
